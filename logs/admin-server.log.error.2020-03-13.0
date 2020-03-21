@@ -1,4 +1,4 @@
-2020-03-19 18:26:14,103 [Druid-ConnectionPool-Create-1796819068] ERROR c.alibaba.druid.pool.DruidDataSource -[DruidDataSource.java:2469]- create connection SQLException, url: jdbc:mysql://111.229.117.243:3306/boot-security?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false, errorCode 0, state 08S01
+2020-03-13 17:11:16,173 [Druid-ConnectionPool-Create-294323755] ERROR c.alibaba.druid.pool.DruidDataSource -[DruidDataSource.java:2469]- create connection SQLException, url: jdbc:mysql://111.229.117.243:3306/boot-security?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false, errorCode 0, state 08S01
 com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

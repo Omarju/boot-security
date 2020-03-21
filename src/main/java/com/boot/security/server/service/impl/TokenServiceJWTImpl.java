@@ -31,7 +31,7 @@ import io.jsonwebtoken.SignatureAlgorithm;
 /**
  * token存到redis的实现类<br>
  * jwt实现的token
- * 
+ * @Primary注解优先选择
  * @author 奇趣源码商城 www.qiqucode.com
  *
  */
